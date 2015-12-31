@@ -1,0 +1,91 @@
+#wrapper 
+{
+	margin-right: auto;
+	margin-left: auto;
+	border-style:solid;
+    border-width:5px;	
+    border-color:transparent;
+    padding:5px;
+}
+
+#header 
+{
+  background-color: black; 
+  color:white;
+  text-align:center;
+  padding:5px;
+  position: relative;
+}
+
+div.main
+{
+    border-style: solid; 
+    border-width: thin;
+    border-color: black;
+	margin-left: 250px;
+	margin-right: 250px;
+	padding-top: 20px;
+	padding-left: 20px;
+	width: 75%;
+	position: absolute;
+	margin-top: 60px;
+	padding-bottom: 30px;
+	clear: left;
+    background-color: lightgrey;
+}
+
+div.transbox1
+{
+	position: relative; 
+   	display: inline;
+    padding-bottom: 80px;
+	padding-top: 80px;
+	margin-right: 250px;
+}
+
+div.forimage
+{
+	margin: 20px 20px 20px 20px; 
+    padding: 10px;
+    border: 1px solid black;
+    height: 200px;
+    width: 230px;
+    text-align: center;
+	float: left;
+	clear: right;
+    background-color: white;
+	position: relative;
+}
+
+div.fortop
+{
+	margin-left: 260px;
+	margin-top: 50px;
+}
+
+.imge
+{
+	width:120px; 
+	height:120px; 
+	display:inline; 
+	margin-top: 10px;
+	text-align:center;
+}
+
+.fortext
+{
+	text-align:center;
+}
+
+nav
+{
+    position: relative;
+    float: left; 
+    width: 200px;
+    border-color: black;
+    border-style: solid; 
+    border-width: thin;
+	margin-top: 160px;
+	margin-left: 30px;
+	text-align: center;
+}
