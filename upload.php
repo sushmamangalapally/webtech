@@ -126,7 +126,7 @@
 </html>
 
 <?php /* 5. Checks Password */
-   		$pass = 'gobroncos'; /*this is the password */
+   		$pass = ''; /*this is the password -> password not shown for secure reasons */
    	   if(isset($_POST['yourpassword'])) 
    	   {
     		$passw = $_POST['yourpassword'];
